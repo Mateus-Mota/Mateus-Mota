@@ -1,6 +1,6 @@
 ## Hey, eu sou o Mateus e vou apresentar um pouco sobre mim:
 
-- Estudande de Redes de Computadores no IFPB
+- Estudande de Redes de Computadores
 - Interesses: Python, Shell Scripts, Linux e Cloud Computing.
 - Futuro Engenheiro DevOps
           
