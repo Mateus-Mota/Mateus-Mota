@@ -1,7 +1,7 @@
 ## Hey, eu sou o Mateus e vou apresentar um pouco sobre mim:
 
 - Estudande de Ciência de Computação
-- Interesses: Python, Shell Scripts, Linux e Cloud Computing.
+- Interesses: Python, Go, Shell Scripts, Linux e Cloud Computing.
 - Atuo como DevOps
           
 <br>
